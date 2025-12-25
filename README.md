@@ -110,9 +110,9 @@ For any issues or suggestions regarding this project, feel free to open an issue
 
 
 
-This report was automatically generated on 2025-12-24 04:33:31 UTC.
+This report was automatically generated on 2025-12-25 04:35:19 UTC.
 
 | Website | Domain breach | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-vacances.sukiya.me | ⚪ | ⚪ | 🟢 (70 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | ⚪ | ⚪ | 🔴 | ⚪ | 🔴 | 🟡 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
-moehina.sukiya.me | ⚪ | ⚪ | 🟢 (70 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | 🔴 | ⚪ | 🔴 | 🟡 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | ⚪ | ⚪ | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
+vacances.sukiya.me | ⚪ | ⚪ | 🟢 (69 days left) | 🟢 | 🟢 | ⚪ | 🟢 | 🟢 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | 🟡 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
+moehina.sukiya.me | ⚪ | ⚪ | 🟢 (69 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | 🟢 | ⚪ | ⚪ | 🔴 | 🟡 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🟢 | 🟠 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
